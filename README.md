@@ -4,13 +4,13 @@ Repository containing configurations files for linux setup. This includes config
 - i3
 - kitty (default)
 - nivm (using NvChad)
-- shkxd (basic setup)
+- sxhkd (basic setup)
 
 ## Pending items
  These are things that I work on when I have time to spare
 - i3 related
   [ ] Support catpuccin theme in i3
-  [ ] Use shkxd as input window manager instead of i3
+  [ ] Use sxhkd as input window manager instead of i3
   [ ] Launch apps in specific workspaces
 
 - nvim related
